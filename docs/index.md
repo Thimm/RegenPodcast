@@ -64,3 +64,6 @@ A space where recognised experts from the field share their practical experience
 
 ## Get in touch
 Find us on [LinkedIn](https://www.linkedin.com/company/farm-on/){target=_blank} or contact us at [info@farmonapp.com](mailto:info@farmonapp.com).
+
+## Buy us a coffee
+You can [buy us a coffee](https://www.buymeacoffee.com/thimm){target=_blank} if you find the transcripts useful.
