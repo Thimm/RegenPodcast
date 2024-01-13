@@ -9,6 +9,11 @@ packages = [{include = "thimm"}]
 [tool.poetry.dependencies]
 python = "^3.12"
 mkdocs-material = "^9.5.3"
+mkdocs-roamlinks-plugin = "^0.3.2"
+pillow = "^10.2.0"
+cairosvg = "^2.7.1"
+mkdocs-mermaid2-plugin = "^1.1.1"
+mkdocs-rss-plugin = "^1.11.1"
 
 
 [build-system]
