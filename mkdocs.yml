@@ -55,7 +55,6 @@ plugins:
       #     prebuild_index: true
       indexing: "titles"
   - blog:
-      blog_dir: .
   - rss:
       match_path: blog/posts/.* 
       date_from_meta:
