@@ -1,4 +1,4 @@
-# Thimm's Page
+# About me
 Hello fellow being. Glad to have you hear. I'm writing about geospatial data, machine learning, agriculture, and startups.
 
 ## Get in touch
