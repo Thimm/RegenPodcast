@@ -1,5 +1,5 @@
-site_name: Regenerative Agriculture Podcast Transcripts
-site_url: https://podcasts.farmonapp.com
+site_name: Thimm
+site_url: https://thimm.github.io
 theme:
   name: "material"
   logo: assets/FarmOnLogoWhite.svg
@@ -8,8 +8,8 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: pink
-      accent: indigo
+      primary: indigo
+      accent: pink
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -17,7 +17,7 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: pink
+      primary: indigo
       accent: blue
       toggle:
         icon: material/toggle-switch
