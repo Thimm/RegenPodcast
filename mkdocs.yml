@@ -2,8 +2,8 @@ site_name: Thimm's Page
 site_url: https://thimm.github.io
 theme:
   name: "material"
-  logo: assets/FarmOnLogoWhite.svg
-  favicon: assets/FarmOnFavicon.png
+  # logo: assets/FarmOnLogoWhite.svg
+  # favicon: assets/FarmOnFavicon.png
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
@@ -56,6 +56,8 @@ plugins:
       indexing: "titles"
   - blog:
       blog_dir: blog
+      archive: false
+      post_url_format: "{slug}"
   - rss:
       match_path: blog/.* 
       date_from_meta:
