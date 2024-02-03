@@ -8,3 +8,5 @@
 .SearchEngine/transcriptions
 *.zip
 .ipynb_checkpoints/
+Codes/blog_post/media/
+__pycache__/
